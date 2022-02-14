@@ -1,4 +1,5 @@
-import java.util.*;  
+import java.util.*;
+
 public class Tiempo {
   public void tiempo(){
       Scanner scanner1 = new Scanner(System.in);  
@@ -10,4 +11,3 @@ public class Tiempo {
       scanner1.close();             
     }
 }
-
