@@ -1,7 +1,7 @@
 import java.util.*;  
 public class Cocina { 
   public void cocina(Scanner teclado){ 
-      Scanner teclado = new Scanner(System.in)  
+      Scanner teclado = new Scanner(System.in);  
       System.out.print("Introduce el tipo de carne que va a cocinar: ");  
       String tipoCarne = teclado.nextLine();
       System.out.print("Introduce el peso de la carne en gramos: ");  
