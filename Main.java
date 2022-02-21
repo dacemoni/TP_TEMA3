@@ -6,6 +6,7 @@ public static void main(String[] args) {
   eltiempo(teclado);
   mes(teclado);
   cocina(teclado);
+  nomina(teclado);
 }
 
 }
