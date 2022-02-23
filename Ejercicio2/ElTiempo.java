@@ -13,7 +13,7 @@ public class ElTiempo {
       else if (temperatura >= 2){
         System.out.println("Hace frío");
       }
-      else if (temperatura < 2){
+      else {
         System.out.println("Riesgo de hielo");
       }
       scanner1.close();

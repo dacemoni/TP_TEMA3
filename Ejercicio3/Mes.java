@@ -1,12 +1,11 @@
 import java.util.*;  
 public class Mes { 
   public void mes(Scanner teclado){   
-      System.out.print("Introduce el numero de mes: ");  
-      int nmes = 0;
-    
         try (Scanner teclado = new Scanner(System.in)){
             do{ 
-                teclado.nextLine();
+                System.out.print("Introduce el numero de mes: ");  
+                int nmes;
+               nmes = teclado.nextLine();
                 switch (nmes){
                     case 1:
                     		System.out.println("Enero");
@@ -48,8 +47,7 @@ public class Mes {
                     default:
                         System.out.println("No existe esta opcion.");
                 }
-            } while (opcion != 12);
+            } 
         }
-    }
   }  
 }
