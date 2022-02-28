@@ -2,6 +2,9 @@
 Realizado por: David César Moro Nieto 
 
 Ejercicios Tema 3 resueltos en: https://github.com/dacemoni/TP_TEMA3
+
+Codigo dentro de la carpeta ej3.
+
 ## Ejercicios
 ## 1. El tiempo
 Escriba un algoritmo que muestre "riesgo de hielo", si la temperatura introducida es inferior a 2°C.
