@@ -1,4 +1,6 @@
+package ej3;
 import java.util.*; 
+
 public class Nomina {  
   public void nomina(Scanner teclado){ 
     Scanner teclado = new Scanner(System.in);

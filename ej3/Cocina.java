@@ -1,4 +1,6 @@
+package ej3;
 import java.util.*;  
+
 public class Cocina { 
   public void cocina(Scanner teclado){ 
       int resultado = 0;

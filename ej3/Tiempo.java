@@ -1,3 +1,4 @@
+package ej3;
 import java.util.*;
 
 public class Tiempo {

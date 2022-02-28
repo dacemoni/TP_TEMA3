@@ -1,4 +1,6 @@
+package ej3;
 import java.util.*;  
+
 public class ElTiempo {  
   public void eltiempo(Scanner teclado){ 
       Scanner scanner1 = new Scanner(System.scanner1);  

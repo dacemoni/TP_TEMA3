@@ -1,4 +1,6 @@
+package ej3;
 import java.util.*;  
+
 public class Mes { 
   public void mes(Scanner teclado){   
         try (Scanner teclado = new Scanner(System.in)){
